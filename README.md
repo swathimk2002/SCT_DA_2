@@ -31,7 +31,7 @@ This project focuses on cleaning and preparing the Global Superstore dataset usi
 ---
 
 ## Outcome
--Cleaned dataset for analysis
+ Cleaned dataset for analysis
 
 ---
 
