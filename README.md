@@ -24,8 +24,14 @@ This project focuses on cleaning and preparing the Global Superstore dataset usi
 
 ---
 
-##  Output
-- `Cleaned_Globalsuperstore(1).csv`
+## Files
+- data_cleaning (2).ipynb
+- Cleaned_Globalsuperstore (1).csv
+
+---
+
+## Outcome
+-Cleaned dataset for analysis
 
 ---
 
